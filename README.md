@@ -1,4 +1,4 @@
-### Hi there 😊
+### Hi there 👋
 
 - 🧑‍💻 Web developer && Entrepreneur
 - 📆 Four years' development working experience.
