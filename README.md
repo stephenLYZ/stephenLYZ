@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🧑‍💻 Web developer && Entrepreneur
+- 🧑‍💻 Web developer && Software engineer
 - 📆 Four years' development working experience.
 - 👨🏼‍🎓 Information Management and Information Systems
 - 🤏🏼 Focus on GUI development
